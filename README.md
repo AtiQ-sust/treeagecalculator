@@ -10,6 +10,14 @@ Enter the diameter of the tree in inches in the "Diameter" field.
 Select the species of the tree from the "Tree Species" dropdown menu.
 Click the "Calculate Age" button to calculate the age of the tree.
 
+Practical Example
+
+The tree age calculator available at https://sarpo.net/tree-age-calculator/ is a practical example of how the calculator can be used to estimate the age of a tree. To use the calculator, follow the steps outlined in the "How to use the calculator" section of the Readme guideline.
+
+Enter the diameter of the tree in inches in the "Diameter" field and select the species of the tree from the "Tree Species" dropdown menu. Then, click the "Calculate Age" button to calculate the age of the tree. The calculator will display the age of the tree in years in the "Result" field.
+
+Keep in mind that the calculator is only an estimate of the age of the tree and may not be accurate due to a variety of factors. It is intended for general information purposes only and should not be used for scientific or legal purposes.
+
 Possible outcomes
 
 The calculator will display the age of the tree in years in the "Result" field. The age is calculated based on the formula:
